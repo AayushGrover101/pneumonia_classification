@@ -1,2 +1,1 @@
-# pneumonia_classification
-# pneumonia_classification
+# Classifying Pneumonia through PyTorch
